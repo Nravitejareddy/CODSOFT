@@ -70,6 +70,23 @@ java StudentGradeCalculator
 javac ATMInterface.java
 java ATMInterface
 ```
+## 💱 Task 04: Currency Converter
+
+### 📌 Description
+- Converts currency using real-time exchange rates  
+- Uses an external JSON API  
+- Parses JSON response using `org.json` library  
+
+### 📦 External Library Used
+- `json-20230227.jar`  
+
+### ▶ How to Run (IMPORTANT)
+Make sure both files are in the same folder:
+
+```text
+CurrencyConverterCLI.java json-20230227.jar
+
+
 
 
 
