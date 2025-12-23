@@ -108,6 +108,16 @@ A complete student management system that allows:
 javac StudentManagementSystem.java
 java StudentManagementSystem
 ```
+### 🖥 Execution Mode
+- All projects are **Command-Line Interface (CLI)** based  
+- No GUI frameworks (Swing / JavaFX) are used  
+- Output is displayed directly in the terminal  
+
+---
+
+### 👤 Author
+**N. Ravi Teja Reddy**  
+Java Intern – CODSOFT
 
 
 
