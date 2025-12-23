@@ -39,7 +39,22 @@ A simple game where the computer generates a random number and the user tries to
 
 ### ▶ How to Run
 ```bash
-javac NumberGuessingGame.java
-java NumberGuessingGame
+javac NumberGame.java
+java NumberGame
+```
+## 🎓 Task 02: Student Grade Calculator
+
+### 📌 Description
+- Takes marks (out of 100) for multiple subjects  
+- Calculates total marks  
+- Calculates average percentage  
+- Assigns grade based on percentage  
+
+### ▶ How to Run
+```cmd
+javac StudentGradeCalculator.java
+java StudentGradeCalculator
+```
+
 
 
