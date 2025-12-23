@@ -201,3 +201,4 @@ public class CurrencyConverterCLI {
         return " ".repeat(pad) + text;
     }
 }
+
