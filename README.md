@@ -31,4 +31,14 @@ CODSOFT/
 │       └── StudentManagementSystem.java
 │
 └── README.md
+## 🛠 Prerequisites
+
+- Java JDK 8 or higher installed
+- Command Prompt / Terminal
+- Internet connection (for Currency Converter task)
+
+Check Java version:
+
+```bash
+java -version
 
