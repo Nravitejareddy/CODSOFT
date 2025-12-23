@@ -55,6 +55,22 @@ java NumberGame
 javac StudentGradeCalculator.java
 java StudentGradeCalculator
 ```
+## 🏦 Task 03: ATM Interface
+
+### 📌 Description
+- Simulates an ATM Machine  
+- Options:  
+  - Withdraw  
+  - Deposit  
+  - Check Balance  
+- Includes input validation  
+
+### ▶ How to Run
+```cmd
+javac ATMInterface.java
+java ATMInterface
+```
+
 
 
 
