@@ -80,12 +80,17 @@ java ATMInterface
 ### 📦 External Library Used
 - `json-20230227.jar`  
 
-### ▶ How to Run (IMPORTANT)
 Make sure both files are in the same folder:
 
 ```text
 CurrencyConverterCLI.java json-20230227.jar
 ```
+### ▶ How to Run
+```cmd
+javac -cp ".;json-20230227.jar" CurrencyConverterCLI.java
+java -cp ".;json-20230227.jar" CurrencyConverterCLI
+```
+
 
 
 
