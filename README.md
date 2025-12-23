@@ -85,7 +85,7 @@ Make sure both files are in the same folder:
 
 ```text
 CurrencyConverterCLI.java json-20230227.jar
-
+```
 
 
 
