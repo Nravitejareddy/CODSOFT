@@ -31,14 +31,14 @@ CODSOFT/
 │       └── StudentManagementSystem.java
 │
 └── README.md
-
+```
 ## 🎯 Task 01: Number Guessing Game
 
 ### 📌 Description
 A simple game where the computer generates a random number and the user tries to guess it.
 
 ### ▶ How to Run
-```bash
+bash
 javac NumberGuessingGame.java
 java NumberGuessingGame
 
