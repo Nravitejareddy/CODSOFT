@@ -31,14 +31,14 @@ CODSOFT/
 │       └── StudentManagementSystem.java
 │
 └── README.md
-## 🛠 Prerequisites
 
-- Java JDK 8 or higher installed
-- Command Prompt / Terminal
-- Internet connection (for Currency Converter task)
+## 🎯 Task 01: Number Guessing Game
 
-Check Java version:
+### 📌 Description
+A simple game where the computer generates a random number and the user tries to guess it.
 
+### ▶ How to Run
 ```bash
-java -version
+javac NumberGuessingGame.java
+java NumberGuessingGame
 
