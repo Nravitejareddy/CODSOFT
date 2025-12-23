@@ -90,7 +90,24 @@ CurrencyConverterCLI.java json-20230227.jar
 javac -cp ".;json-20230227.jar" CurrencyConverterCLI.java
 java -cp ".;json-20230227.jar" CurrencyConverterCLI
 ```
+## 🧑‍🎓 Task 05: Student Management System
 
+### 📌 Description
+A complete student management system that allows:
+- Add Student  
+- Edit Student  
+- Remove Student  
+- Search Student  
+- Display All Students  
+- File-based data storage  
+- Fixed-width colored tables  
+- Proper input validation  
+
+### ▶ How to Run
+```cmd
+javac StudentManagementSystem.java
+java StudentManagementSystem
+```
 
 
 
