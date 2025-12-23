@@ -158,3 +158,4 @@ public class NumberGame {
         return Math.max(0, 100 - (attempts - 1) * 10);
     }
 }
+
